@@ -28,8 +28,3 @@ if 3.14 < x < 3.142:
 
 
 ## Section 11.3: Short-circuit evaluation
-
-  git config --global user.email "you@example.com"
-  git config --global user.name "Your Name"
-
-
